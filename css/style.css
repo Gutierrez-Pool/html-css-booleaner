@@ -1,9 +1,21 @@
 header{
-    background-image: url(/img/pattern.png);
     background-color: cornflowerblue;
+    background-image: url(/img/pattern.png);
     height: 200px;
 }
 
 #logo{
     width: 200px;
+}
+
+.sotto-titolo{
+    color: grey;
+}
+
+.nome{
+    color: cyan;
+}
+
+.sotto-img{
+    font-size: smaller;
 }
