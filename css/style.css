@@ -8,7 +8,9 @@ header{
     width: 200px;
 }
 
-.sotto-titolo{
+
+/* Titolo */
+.grey{
     color: grey;
 }
 
@@ -20,10 +22,31 @@ header{
     font-size: smaller;
 }
 
+
+/* Tabella */
 .tabella-titolo{
     background-color: aqua;
 }
 
 .tabella-color{
     background-color: aquamarine;
+}
+
+
+.evidenziatore{
+    background-color: gold;
+}
+
+.Testo{
+    text-align: justify;
+}
+
+
+/* Img finale */
+.fine1{
+    background-image: url(/img/monitor.jpg);
+}
+
+.fine2{
+    background-image: url(/img/graph.jpg);
 }
