@@ -1,52 +1,52 @@
-header{
+header {
     background-color: cornflowerblue;
     background-image: url(/img/pattern.png);
     height: 200px;
 }
 
-#logo{
+#logo {
     width: 200px;
 }
 
 
 /* Titolo */
-.grey{
+.grey {
     color: grey;
 }
 
-.nome{
+.nome {
     color: cyan;
 }
 
-.sotto-img{
+.sotto-img {
     font-size: smaller;
 }
 
 
 /* Tabella */
-.tabella-titolo{
+.tabella-titolo {
     background-color: aqua;
 }
 
-.tabella-color{
+.tabella-color {
     background-color: aquamarine;
 }
 
 
-.evidenziatore{
+.evidenziatore {
     background-color: gold;
 }
 
-.Testo{
+.Testo {
     text-align: justify;
 }
 
 
 /* Img finale */
-.fine1{
+.fine1 {
     background-image: url(/img/monitor.jpg);
 }
 
-.fine2{
+.fine2 {
     background-image: url(/img/graph.jpg);
 }
