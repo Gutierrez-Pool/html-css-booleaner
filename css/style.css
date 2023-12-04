@@ -1,0 +1,9 @@
+header{
+    background-image: url(/img/pattern.png);
+    background-color: cornflowerblue;
+    height: 200px;
+}
+
+#logo{
+    width: 200px;
+}
